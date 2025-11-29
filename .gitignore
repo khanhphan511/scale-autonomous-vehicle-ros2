@@ -1,0 +1,22 @@
+# ROS 2 / colcon artifacts
+build/
+install/
+log/
+
+# Colcon metadata
+.colcon*/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Third-party packages (if you don't want to version them)
+src/unilidar_sdk/
+
+# OS junk
+.DS_Store
+Thumbs.db
