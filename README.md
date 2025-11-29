@@ -17,9 +17,9 @@ How to build
 1. Open a terminal.
 2. Run these commands:
 
-   cd ~/ros2_igvc_ws
-   colcon build
-   source install/setup.bash
+   `cd ~/ros2_igvc_ws`
+   `colcon build`
+   `source install/setup.bash`
 
 ------------------------------------------------------------
 Launch examples
