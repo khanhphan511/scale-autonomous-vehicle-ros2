@@ -1,21 +1,4 @@
 #!/usr/bin/env python3
-"""
-Improved lane detector for IGVC-style yellow tape.
-
-This module is based on the original lane detector provided by the user.  The
-primary change in this version is to adjust the sign of the published
-``offset_norm`` so that a positive value instructs the vehicle to steer away
-from the detected lane boundary instead of towards it.  In practice, this
-means that when the lane centre lies to the right of the image centre the
-normalised offset will be negative (prompting a left steering correction),
-and when it lies to the left the offset will be positive (prompting a right
-steering correction).  All other processing logic remains identical to the
-reference implementation.
-
-To use this node drop it into your ROS2 workspace and run it in place of
-the original ``LaneDetectorNode``.  Topic names and parameters remain
-unchanged.
-"""
 
 import time
 import cv2
