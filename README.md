@@ -4,7 +4,7 @@
   <img src="images/scale_autonomous_vehicle.png"
        alt="Scale autonomous vehicle with Jetson Orin Nano, OAK-D Lite, and Unitree L2 LiDAR"
        width="60%" /><br/>
-  <em>Ride-on scale vehicle with Jetson Orin Nano, OAK-D Lite depth camera, and Unitree L2 4D LiDAR.</em>
+  <em>Ride-on scale vehicle with Jetson Orin Nano, OAK-D Lite depth camera, and Unitree L1 4D LiDAR.</em>
 </p>
 
 This repository contains a ROS 2 Humble workspace for a **scale autonomous vehicle** designed around IGVC-style tasks:
