@@ -16,7 +16,7 @@ This repository contains a ROS 2 Humble workspace for a **scale autonomous vehic
 
 The Jetson replaces an earlier laptop setup and allows the camera pipeline to run much faster (from ~0.9 Hz to ~19 Hz).
 
-The project uses the **DepthAI** SDK for the OAK-D camera and the **Unitree `unilidar_sdk`** for the L2 LiDAR. Only my ROS 2 nodes and launch files are included here.
+The project uses the **DepthAI** SDK for the OAK-D camera and the **Unitree `unilidar_sdk`** for the L1 LiDAR. Only my ROS 2 nodes and launch files are included here.
 
 ---
 
