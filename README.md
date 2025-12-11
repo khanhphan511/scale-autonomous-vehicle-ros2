@@ -1,4 +1,4 @@
-# Scale Autonomous Vehicle (ROS 2 + Jetson Orin Nano)
+# Scale Autonomous Vehicle 
 
 <p align="center">
   <img src="images/autonomous_vehicle.png"
