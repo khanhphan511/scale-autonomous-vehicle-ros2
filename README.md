@@ -1,7 +1,7 @@
 # Scale Autonomous Vehicle (ROS 2 + Jetson Orin Nano)
 
 <p align="center">
-  <img src="images/scale_autonomous_vehicle.png"
+  <img src="images/autonomous_vehicle.png"
        alt="Scale autonomous vehicle with Jetson Orin Nano, OAK-D Lite, and Unitree L2 LiDAR"
        width="60%" /><br/>
   <em>Ride-on scale vehicle with Jetson Orin Nano, OAK-D Lite depth camera, and Unitree L1 4D LiDAR.</em>
